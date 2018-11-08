@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MultiBle</string>
+    <string name="open_setting">Setting</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="ble_location_not_open">不检查</string>
+    <string name="ble_location_not">不检查</string>
+    <string name="lianjiezhuangtai">连接状态</string>
+    <string name="dianchidianliang">电池电量</string>
+    <string name="yinliangzhuangtai">音量状态</string>
+    <string name="weilianjie">未连接</string>
+    <string name="morendianliang">充电中</string>
+    <string name="morenyinliang">5</string>
+    <string name="chongxinluzhi">重新录制</string>
+    <string name="wanchengxuanze">完成选择</string>
+
+    <string name="feiyinluzhi">波形实时显示</string>
+    <string name="feiyinbaocun">肺音保存</string>
+    <string name="sex">性别：</string>
+    <string name="nan">男</string>
+    <string name="nv">女</string>
+    <string name="age">年龄：</string>
+    <string name="save">保存录制音频</string>
+    <string name="otherTye">输入其它肺音类型</string>
+    <string name="attach">输入患者附加疾病</string>
+    <string name="feiyinPlayer">肺音播放</string>
+    <string name="openDataBase">打开音频库</string>
+    <string name="playerStart">00:00</string>
+    <string name="playerEnd">00:00</string>
+    <string name="previous">上一个</string>
+    <string name="next">下一个</string>
+    <string name="player">播放</string>
+
+    <!--<肺音选项></肺音选项>-->
+    <string name="item1">胃肠炎</string>
+    <string name="item2">胰腺炎</string>
+    <string name="item3">肠梗阻</string>
+    <string name="item4">便秘</string>
+    <string name="item5">肺心病</string>
+    <string name="item6">呼吸衰竭</string>
+    <string name="item7">肺栓塞</string>
+    <string name="item8">肺脓肿</string>
+    <string name="item9">肺炎</string>
+    <string name="item10">新生儿肺炎</string>
+    <string name="item11">小儿肺炎</string>
+    <string name="item12">气管炎</string>
+    <string name="item13">哮喘</string>
+    <string name="item14">肺结核</string>
+    <string name="item15">尘肺</string>
+    <string name="item16">间质性肺疾病</string>
+    <string name="item17">腹膜炎</string>
+    <string name="item18">其它</string>
+    <string name="posname">肠音录制位置</string>
+    <string name="pos1">1</string>
+    <string name="pos2">2</string>
+    <string name="pos3">3</string>
+    <string name="pos4">4</string>
+</resources>
